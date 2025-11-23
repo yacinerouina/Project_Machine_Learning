@@ -8,12 +8,12 @@
 
 ### 🚢 Titanic Survival Prediction (Top 5% on Kaggle)
 * **Goal:** Binary classification of passenger survival using Ensemble Learning.
-* **Tech:** Python, Scikit-Learn, `VotingClassifier` (Random Forest, SVM, Gradient Boosting).
+* **Tech:** Python, Scikit-Learn, Random Forest and SVM.
 * **Highlights:**
     * Built robust preprocessing pipelines using `ColumnTransformer` to prevent data leakage.
     * Engineered features (Title extraction, Family size) to improve signal.
-    * **Result:** >83% Accuracy.
-* 📂 [View Project Code](./titanic-project)
+    * **Result:** Top 19% on Kaggle Leaderboard (Accuracy: 83.28%)
+  ![Kaggle Ranking](./titanic-project/kaggle_ranking.png)
 
 ### 🏠 Housing Prices & Applied ML (In Progress)
 * Advanced regression techniques (XGBoost, Stacking) to predict property values.
