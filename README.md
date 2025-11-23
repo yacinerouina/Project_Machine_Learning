@@ -6,7 +6,7 @@
 
 ## 🚀 Key Projects
 
-### 🚢 Titanic Survival Prediction (Top 5% on Kaggle)
+### 🚢 Titanic Survival Prediction (Top 19% on Kaggle)
 * **Goal:** Binary classification of passenger survival using Ensemble Learning.
 * **Tech:** Python, Scikit-Learn, Random Forest and SVM.
 * **Highlights:**
