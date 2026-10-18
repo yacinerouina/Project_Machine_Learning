@@ -26,15 +26,13 @@ Dual Degree Student: MSc in General Engineering (diplôme d'ingénieur) at **Cen
   * Leveraged the LangChain framework for analyzing and vectorizing complex textual data.
   * Designed and deployed an interactive user interface to query the recommendation model in natural language.
 
-### Titanic Survival Prediction (Top 19% on Kaggle)
+### Titanic Survival Prediction on Kaggle
 * **Description:** Binary classification of passenger survival using Ensemble Learning.
 * **Tech Stack:** Python, Scikit-Learn, Random Forest, XGBoost, SVM.
 * **Highlights:**
   * Built robust preprocessing pipelines using `ColumnTransformer` to prevent data leakage.
   * Engineered advanced features (title extraction, family size) to improve signal.
   * **Result:** Ranked in the top 19% on the Kaggle Leaderboard (Accuracy: > 83%).
-  
-  *[Link to Kaggle Ranking / Repository]*
 
 ### Housing Price Prediction
 * **Description:** Advanced regression techniques applied to real estate valuation.
